@@ -19,4 +19,4 @@ if [ ! -f $VIRTUALENV/bin/pip ]; then
 fi
 
 # Run your glorious application
-$VIRTUALENV/bin/python3 server.py
+$VIRTUALENV/bin/python3 main.py
